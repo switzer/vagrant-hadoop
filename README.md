@@ -11,6 +11,7 @@ This is a vagrant box for hadoop 0.23.1
 $ git clone git@github.com:demandchain/vagrant-hadoop.git
 $ cd vagrant-hadoop
 $ git submoudle update --init
+```
 
 ### Configure share folder
 
