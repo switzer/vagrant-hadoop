@@ -20,7 +20,7 @@ Create a directory on your local machine
 $ mkdir ~/hadoop-share
 $ chmod a+w ~/hadoop-share
 ```
-Change the '''config.vm.share_folder''' to be the FULL PATH of the folder above (change the third parameter from '/Users/ywen/hadoop-share')
+Change the ```config.vm.share_folder``` in Vagrantfile to be the FULL PATH of the folder above (change the third parameter from '/Users/ywen/hadoop-share')
 ```bash
 $ vi Vagrantfile
 ```
